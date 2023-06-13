@@ -1,0 +1,12 @@
+Python has several built-in data types:
+
+1. Numbers - Integers (whole numbers), floating-point numbers (decimal numbers), and complex numbers.
+2. Strings - A sequence of characters, enclosed in single quotes, double quotes or triple quotes.
+3. Lists - A sequence of values, enclosed in square brackets and separated by commas.
+4. Tuples - Similar to lists but immutable, enclosed in parentheses.
+5. Sets - A collection of unique elements, enclosed in curly braces or created with the set() function.
+6. Dictionaries - A collection of key-value pairs, enclosed in curly braces and separated by colons.
+Additionally, Python has a few special data types:
+
+7. Booleans - True or False values used for logical operations.
+8. NoneType - A special type representing the absence of a value, often used as a default value.
