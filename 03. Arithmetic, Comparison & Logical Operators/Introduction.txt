@@ -1,1 +1,24 @@
+Python provides several arithmetic, comparison, and logical operators for performing different operations. Here are some of the basic operators:
 
+Arithmetic operators:
+
+Addition (+): adds two values
+Subtraction (-): subtracts one value from another
+Multiplication (*): multiplies two values
+Division (/): divides one value by another
+Modulus (%): returns the remainder of the division operation
+Floor Division (//): returns the quotient of the division operation, rounded down to the nearest integer
+Exponentiation (**): raises one value to the power of another
+Comparison operators:
+
+Equal to (==): checks if two values are equal
+Not equal to (!=): checks if two values are not equal
+Greater than (>): checks if one value is greater than another
+Less than (<): checks if one value is less than another
+Greater than or equal to (>=): checks if one value is greater than or equal to another
+Less than or equal to (<=): checks if one value is less than or equal to another
+Logical operators:
+
+AND (and): returns True if both statements are true
+OR (or): returns True if at least one statement is true
+NOT (not): reverses the result of a comparison, returning False if the result is True, and vice versa.
